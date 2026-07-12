@@ -1,11 +1,11 @@
 import { useState } from "react";
 
-import Layout from "./components/layout/Layout";
+import Layout from "../components/layout/Layout";
 
-import PersonalInfo from "./components/steps/PersonalInfo";
-import AccountDetails from "./components/steps/AccountDetails";
-import Review from "./components/steps/Review";
-import Success from "./components/steps/Success";
+import PersonalInfo from "../components/steps/PersonalInfo";
+import AccountDetails from "../components/steps/AccountDetails";
+import Review from "../components/steps/Review";
+import Success from "../components/steps/Success";
 
 function App() {
 
