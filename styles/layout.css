@@ -1,0 +1,21 @@
+.page{
+
+min-height:100vh;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+padding:60px 20px;
+
+}
+
+.container{
+
+width:100%;
+
+max-width:720px;
+
+}
