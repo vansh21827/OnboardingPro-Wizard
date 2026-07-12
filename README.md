@@ -15,12 +15,11 @@ https://onboarding-pro-wizard-eorg.vercel.app/
 | Personal Information | Account Details 
 |----------------------|-----------------
 <img width="587" height="807" alt="Screenshot 2026-07-11 225106" src="https://github.com/user-attachments/assets/dd2723c7-e9c4-4c61-aa72-341264f96796" /> | <img width="578" height="831" alt="Screenshot 2026-07-11 225211" src="https://github.com/user-attachments/assets/eb73aae6-2c61-4565-b628-a6ac190874e2" />
-<img width="582" height="761" alt="Screenshot 2026-07-11 225227" src="https://github.com/user-attachments/assets/d184091c-8286-4f7e-8fce-c2829566e261" />
-<img width="582" height="740" alt="Screenshot 2026-07-11 225238" src="https://github.com/user-attachments/assets/008e4880-b0df-48be-9f07-0705b2e24683" />
 
 | Review | Success |
 |--------|----------|
-
+<img width="582" height="761" alt="Screenshot 2026-07-11 225227" src="https://github.com/user-attachments/assets/d184091c-8286-4f7e-8fce-c2829566e261" />|
+<img width="582" height="740" alt="Screenshot 2026-07-11 225238" src="https://github.com/user-attachments/assets/008e4880-b0df-48be-9f07-0705b2e24683" />
 ---
 
 ## Features
